@@ -7,7 +7,7 @@ from fir import lpf, hpf, bpf, plot_frequency_response
 from wav import Wav
 
 if __name__ == "__main__":
-    file_path = "./wavs/tft.wav"
+    file_path = "u/fill/in"
     """
     # Resampling file
     save_path = "./wavs/resampled_tft.wav"
